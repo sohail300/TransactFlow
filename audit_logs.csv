@@ -1,0 +1,4 @@
+ID,Action,Timestamp,User,Details
+1,submit,2024-09-28T10:30:00Z,john.doe@example.com,
+2,approve,2024-09-28T11:15:00Z,jane.smith@example.com,
+3,reject,2024-09-28T14:45:00Z,mike.johnson@example.com,
